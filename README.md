@@ -13,9 +13,9 @@ Universal indicator is a combination of multiple different indicators. Unlike li
 #### Litmus Paper
 
 
-<img src="/images/rand/red1.png"
+<img src="SchoolProject/images/rand/red1.pnSchoolProjectg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-     <img src="/images/rand/orange1.png"
+     <img src="SchoolProject/images/rand/orange1.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
