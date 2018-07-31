@@ -10,3 +10,4 @@ A **Base** is a substance with a ph level higher than 7, and an **Acid** is a su
 #### Universal Indicator
 Universal indicator is a combination of multiple different indicators. Unlike litmus, universal indicator has the ability to show us almost exactly how acidic or alkaline a solution is. This is measured using the pH scale. The pH scale goes from ph 0 to pH 14. Universal indicator changes to a different color when exposed to a solution, it would go red for strong acids to dark purple for strong bases. In the middle is green for Neutral pH 7
 
+#### Litmus Paper
