@@ -20,3 +20,36 @@ Universal indicator is a combination of multiple different indicators. Unlike li
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
      style="float: left; margin-right: 10px;" />]()
+     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/yellow1.png"
+     alt="Scouts"
+     ahref="https://militaryk.github.io/SchoolProject/"
+     style="float: left; margin-right: 10px;" />]()
+     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/yellow2.png"
+     alt="Scouts"
+     ahref="https://militaryk.github.io/SchoolProject/"
+     style="float: left; margin-right: 10px;" />]()
+     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green1.png"
+     alt="Scouts"
+     ahref="https://militaryk.github.io/SchoolProject/"
+     style="float: left; margin-right: 10px;" />]()
+     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green2.png"
+     alt="Scouts"
+     ahref="https://militaryk.github.io/SchoolProject/"
+     style="float: left; margin-right: 10px;" />]()
+     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green3.png"
+     alt="Scouts"
+     ahref="https://militaryk.github.io/SchoolProject/"
+     style="float: left; margin-right: 10px;" />]()
+     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green4.png"
+     alt="Scouts"
+     ahref="https://militaryk.github.io/SchoolProject/"
+     style="float: left; margin-right: 10px;" />]()
+     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green5.png"
+     alt="Scouts"
+     ahref="https://militaryk.github.io/SchoolProject/"
+     style="float: left; margin-right: 10px;" />]()
+   
+   
+   
+   
+   </br>
