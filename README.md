@@ -13,38 +13,38 @@ Universal indicator is a combination of multiple different indicators. Unlike li
 #### Litmus Paper
 
 
-[<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/red1.png"
+[<img class=pH src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/red1.png"
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
-     style="float: left; margin-right: 10px;" />]()[<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/orange1.png"
-     alt="Scouts"
-     ahref="https://militaryk.github.io/SchoolProject/"
-     style="float: left; margin-right: 10px;" />]()
-     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/yellow.png"
+     style="float: left; margin-right: 10px;" />]()[<img class=pH src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/orange1.png"
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
      style="float: left; margin-right: 10px;" />]()
-     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/yellow2.png"
+     [<img class=pH src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/yellow.png"
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
      style="float: left; margin-right: 10px;" />]()
-     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green1.png"
+     [<img class=pH src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/yellow2.png"
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
      style="float: left; margin-right: 10px;" />]()
-     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green2.png"
+     [<img class=pH src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green1.png"
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
      style="float: left; margin-right: 10px;" />]()
-     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green3.png"
+     [<img class=pH src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green2.png"
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
      style="float: left; margin-right: 10px;" />]()
-     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green4.png"
+     [<img class=pH src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green3.png"
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
      style="float: left; margin-right: 10px;" />]()
-     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green5.png"
+     [<img class=pH src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green4.png"
+     alt="Scouts"
+     ahref="https://militaryk.github.io/SchoolProject/"
+     style="float: left; margin-right: 10px;" />]()
+     [<img class=pH src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/green5.png"
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
      style="float: left; margin-right: 10px;" />]()
