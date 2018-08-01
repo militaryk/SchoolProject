@@ -13,10 +13,10 @@ Universal indicator is a combination of multiple different indicators. Unlike li
 #### Litmus Paper
 
 
-[<img src="militaryk.github.io/assets/images/screen-shot-2018-07-26-at-7-12.png"
+[<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/red1.png"
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
-     style="float: left; margin-right: 10px;" />](https://militaryk.github.io/ScoutsUnofficialWebsite)[<img src="militaryk.github.io/assets/images/screen-shot-2018-07-26-at-7-12.png"
+     style="float: left; margin-right: 10px;" />]()[<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/orange1.png"
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
-     style="float: left; margin-right: 10px;" />](https://militaryk.github.io/ScoutsUnofficialWebsite)
+     style="float: left; margin-right: 10px;" />]()
