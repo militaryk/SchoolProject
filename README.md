@@ -20,7 +20,7 @@ Universal indicator is a combination of multiple different indicators. Unlike li
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
      style="float: left; margin-right: 10px;" />]()
-     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/yellow1.png"
+     [<img src="https://raw.githubusercontent.com/militaryk/SchoolProject/master/images/rand/yellow.png"
      alt="Scouts"
      ahref="https://militaryk.github.io/SchoolProject/"
      style="float: left; margin-right: 10px;" />]()
